@@ -1,0 +1,15 @@
+.menu-container{
+    list-style: none;
+   
+}
+
+.menu-container li a{
+    text-decoration: none;
+    color: rgb(219, 136, 35);
+    font-weight: 700;
+   
+}
+
+.menu-container li {
+    margin-left: 1rem;
+}
